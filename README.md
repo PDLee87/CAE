@@ -1,4 +1,4 @@
-**CAM-CAPE Similarity Analysis**
+**SAP-CAE Similarity Analysis**
 
 **Overview**
 This project calculates text similarity between SAP (Significant Accounting Matters) and CAE (Critical Accounting Policies and Estiamte) using two methods:
